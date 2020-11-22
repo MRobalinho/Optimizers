@@ -3,6 +3,8 @@ Optimization Works
 
 References:
 
+https://brc2.com/the-algorithm-workshop/
+
 https://www.wisdomjobs.com/e-university/quantitative-techniques-for-management-tutorial-297/hungarian-method-for-solving-assignment-problem-9898.html
 https://en.wikipedia.org/wiki/Hungarian_algorithm
 https://www.geeksforgeeks.org/hungarian-algorithm-assignment-problem-set-1-introduction/
